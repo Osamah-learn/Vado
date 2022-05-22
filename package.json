@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Osamah-learn/Vado/issues"
   },
-  "homepage": "https://github.com/Osamah-learn/Vado#readme"
+  "homepage": "https://github.com/Osamah-learn/Vado#readme",
+  "dependencies": {
+    "mongoose": "^6.3.4"
+  }
 }
