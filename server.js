@@ -12,6 +12,7 @@ if (process.env.NODE_ENV === "development") {
   app.use(morgan("dev"));
   /* Export DEBUG=app:start or any file name we want */
   debug("Morgan enabled development...");
+  /* DEBUG=app:startup to run startup debug mode */
 }
 
 console.log("Application Name: " + config.get("name"));
