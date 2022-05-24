@@ -1,0 +1,1 @@
+here is static public file
